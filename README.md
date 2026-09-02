@@ -39,9 +39,9 @@ This live portfolio showcases my front-end development and design capabilities. 
 ---
 
 ### 📈 Featured Projects
-*   **The Art of Procrastination ([https://github.com/bwaldschmidt103/Portfolio/tree/main/The%20Art%20of%20Procrastination])** - A quirky and fun webpage poking fun at a day in the life of college.
-*   **Mystic Mineral Marketplace ([https://github.com/bwaldschmidt103/Portfolio/tree/main/Mystic%20Mineral%20Marketplace])** - This website was designed as a means to depict a crystal wholesaler company that I wish to one day own.
-*   **Woodland Waters Coffee ([https://github.com/bwaldschmidt103/Portfolio/tree/main/Woodland%20Waters%20Coffee])** - This earthy website brings my love for coffee together with creativity and the desire to energize humanity. 
+*   **The Art of Procrastination [https://github.com/bwaldschmidt103/Portfolio/tree/main/The%20Art%20of%20Procrastination]** - A quirky and fun webpage poking fun at a day in the life of college.
+*   **Mystic Mineral Marketplace [https://github.com/bwaldschmidt103/Portfolio/tree/main/Mystic%20Mineral%20Marketplace]** - This website was designed as a means to depict a crystal wholesaler company that I wish to one day own.
+*   **Woodland Waters Coffee [https://github.com/bwaldschmidt103/Portfolio/tree/main/Woodland%20Waters%20Coffee]** - This earthy website brings my love for coffee together with creativity and the desire to energize humanity. 
 
 ---
 
@@ -59,4 +59,4 @@ This live portfolio showcases my front-end development and design capabilities. 
 - 📫 How to reach me: (847) 975-7543
 - 😄 Pronouns: He | His  | Him
 - ⚡ Fun fact: Jerusalem is traditionally believed to have originally been called Salem (or Shalem).
--->
+
